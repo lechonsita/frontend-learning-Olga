@@ -109,13 +109,13 @@ h2 {
     border-radius: 20px;
     text-align: left;
 }
-}
+
 .card h3{
     padding: 10px 20px;
     margin-bottom: 20px;
     text-align: left;
 }
-}
+
 .bg-red{
     background: #ffe5e5;
 }
@@ -131,7 +131,7 @@ color:#86898F
 margin-bottom: 10px;
 text-align: left;
 }
-}
+
 
 .table{
     width: 100%;
@@ -152,7 +152,7 @@ input[type=text], select {
     border-radius: 4px;
     text-align: left;
 }
-  }
+  
   input[type=email], select {
     width: fit-content;
     padding: 12px 20px;
@@ -162,7 +162,7 @@ input[type=text], select {
     border-radius: 4px;
     text-align: left;
 }
-  }
+  
 
 input[type=submit] {
     width: fit-content;
